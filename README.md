@@ -7,6 +7,10 @@ It combines facial expression tracking, emoji‑based challenges, and emotion lo
 
 ---
 
+## Video Demo
+
+<video src="assets/demo.mp4" width="600" controls></video>
+
 ## 📱 Overview
 
 FaceFollow lets you:
