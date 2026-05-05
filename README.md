@@ -7,9 +7,7 @@ It combines facial expression tracking, emoji‑based challenges, and emotion lo
 
 ---
 
-## Video Demo
-
-<video src="assets/demo.mp4" width="600" controls></video>
+> 🎥 **Watch the Demo video:** [YouTube Link](https://youtube.com/shorts/fnmfWX5HIUY)
 
 
 ## 📱 Overview
