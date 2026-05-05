@@ -9,7 +9,8 @@ It combines facial expression tracking, emoji‑based challenges, and emotion lo
 
 ## Video Demo
 
-<video src="assets/demo.mp4" width="600" controls></video>
+
+<video src="[assets/demo.mp](https://github.com/tsepokfun/FaceFollow/raw/main/assets/demo.mp4" width="600" controls></video>
 
 ## 📱 Overview
 
